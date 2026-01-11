@@ -1,0 +1,25 @@
+{
+  "name": "picture_in_picture",
+  "version": "0.0.1",
+  "description": "Picture In Picture con Electron.",
+  "main": "main.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "electron .",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sebaxsus/ElectronPictureInPicture.git"
+  },
+  "author": "Sebaxsus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sebaxsus/ElectronPictureInPicture.git/issues"
+  },
+  "homepage": "https://github.com/Sebaxsus/ElectronPictureInPicture.git#readme",
+  "dependencies": {
+    "electron": "^39.2.7"
+  }
+}
